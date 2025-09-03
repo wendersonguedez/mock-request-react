@@ -13,7 +13,7 @@ Este projeto é um mock de requisições HTTP para facilitar o desenvolvimento e
 
 1. Clone o repositório:
   ```bash
-  git clone https://github.com/seu-usuario/requests-mock.git
+  git clone https://github.com/wendersonguedez/mock-request-react.git
   ```
 2. Instale as dependências:
   ```bash
