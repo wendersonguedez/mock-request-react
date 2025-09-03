@@ -1,17 +1,33 @@
 {
-	"users": [
-		{
-			"id": 1,
-			"name": "John Doe"
-		},
-		{
-			"id": 2,
-			"name": "wend"
-		},
-		{
-			"id": 3,
-			"name": "laiana"
-		}
-	],
-	"posts": []
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe"
+    },
+    {
+      "id": "2",
+      "name": "wend"
+    },
+    {
+      "id": "3",
+      "name": "laiana"
+    },
+    {
+      "id": "4",
+      "name": "coca cola"
+    },
+    {
+      "id": "5",
+      "name": "michael"
+    },
+    {
+      "id": "6",
+      "name": "nazare"
+    },
+    {
+      "id": "7",
+      "name": "manoel"
+    }
+  ],
+  "posts": []
 }
